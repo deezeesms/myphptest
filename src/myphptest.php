@@ -4,7 +4,7 @@
 
 <?php
 // This is a single-line comment
-# This is also a single-line comment
+# This is also a single-line comment  --more comments
 /*
 This is a multiple-lines comment block
 that spans over multiple
